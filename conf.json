@@ -1,0 +1,22 @@
+{
+	"show_video": false,
+	"use_dropbox": false,
+	"dropbox_key": "YOUR_DROPBOX_KEY",
+	"dropbox_secret": "YOUR_DROPBOX_SECRET",
+	"dropbox_base_path": "YOUR_DROPBOX_APP_PATH",
+	"min_upload_seconds": 3.0,
+	"min_motion_frames": 2,
+	"camera_warmup_time": 2.5,
+	"delta_thresh": 5,
+	"resolution": [640, 480],
+	"fps": 16,
+	"min_area": 5000,
+	"image_path": "/home/pi/picam",
+	"use_WA": false,
+	"phone_WA": "XXXXXXXXXXX",
+	"password_WA": "PASS",
+	"destination_WP": "XXXXXXXXXXX",
+	"use_TG": true,
+	"token_TG": "TOKEN",
+	"chat_id_TG": 11111111 
+}
